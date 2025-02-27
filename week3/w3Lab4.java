@@ -21,6 +21,11 @@ public class w3Lab4 {
         int difference = Math.abs(number - userGuess);
         System.out.println("The correct number was: " + number);
         System.out.println("The difference between your guess and the actual number is: " + difference);
-        System.out.println("finished");
+        
+        
+        // git add .
+        // git commit -m "수업 내용 업데이트"
+        // git push origin main
+
     }
 }
